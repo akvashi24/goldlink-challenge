@@ -4,6 +4,9 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    // colors: {
+    //   'chartOne': '#F7FAFC'
+    // },
     extend: {},
   },
   plugins: [],
